@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Alice Smith",
+    "experience_years": 10,
+    "total_recipe": 50,
+    "likes": 10000,
+    "recipes":  [
+      {
+        "recipe_name": "Pizza",
+        "recipe_img":"https://th.bing.com/th/id/OIP.2dhr5Ln6cMHIu9SmwE_uBgHaE7?pid=ImgDet&rs=1",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+         
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Pasta",
+        "recipe_img":" https://th.bing.com/th/id/R.a781e20fdbe2994509d550578986bb72?rik=GIo0q4z4wMXVrQ&pid=ImgRaw&r=0",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Risotto",
+        "recipe_img":"https://th.bing.com/th/id/R.27c52fea4d6a2c3e94bfd7be5a2e3e74?rik=dG1j3xH2z%2fk4%2bQ&riu=http%3a%2f%2fwww.azumagourmet.com%2fimages%2fcalifornia-roll-salad-serving01-large.jpg&ehk=w767WGBm25iyCcbMwRyN%2f5nlX9GdgiTdiMzoTcGqT74%3d&risl=&pid=ImgRaw&r=0",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+         
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Alice is a classically trained chef who has worked in some of the finest restaurants in Europe. She specializes in French cuisine and is known for her exquisite pastry-making skills."
+  },
+  {
+    "id": 2,
+    "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+    "name": "Bob Johnson",
+    "experience_years": 5,
+    "total_recipe": 30,
+    "likes": 5000,
+    "recipes": [
+      {
+        "recipe_name": "Tacos",
+        "recipe_img":"https://cdn.vox-cdn.com/thumbor/PnwvPZvxVnRvtFa8bQqQ0-e6v-U=/0x0:5472x3464/1200x800/filters:focal(2856x567:3730x1441)/cdn.vox-cdn.com/uploads/chorus_image/image/65390046/AdobeStock_121838061.0.jpeg",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine.Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Enchiladas",
+        "recipe_img":"https://th.bing.com/th/id/R.ab1ba1c0a6efbe1739cd431bfb1357f7?rik=9rS2I7CjhnFNog&riu=http%3a%2f%2fwww.cravebits.com%2fwp-content%2fuploads%2f2014%2f08%2fbreakfast-enchiladas-4.jpg&ehk=6ckMHhdPlKuwPSzVmZRbY1t2xJa4zB%2bmiKoDmaok0Gg%3d&risl=&pid=ImgRaw&r=0",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+         
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "{Pozole}",
+        "recipe_img":"https://i0.wp.com/angsarap.net/wp-content/uploads/2014/10/pozole2.jpg",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+         
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Bob is a self-taught chef who has gained a following on social media for his creative fusion dishes. He loves experimenting with different flavors and textures to create dishes that are both delicious and visually stunning."
+  },
+  {
+    "id": 3,
+    "picture": "https://images.unsplash.com/photo-1595273670150-bd0c3c392e46?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=787&q=80",
+    "name": "Charlie Brown",
+    "experience_years": 7,
+    "total_recipe": 40,
+    "likes": 8000,
+    "recipes": [
+      {
+        "recipe_name": "Shushi",
+        "recipe_img":"https://th.bing.com/th/id/R.ce84d6a131855b3e13efbc29f457fe78?rik=3VNGAVtdDgTPsQ&pid=ImgRaw&r=0",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Ramen",
+        "recipe_img":"https://th.bing.com/th/id/R.26849f2079c6bc8e68fcb55f96398021?rik=bLwH%2b6z0EuhHqA&riu=http%3a%2f%2fseonkyounglongest.com%2fwp-content%2fuploads%2f2018%2f04%2fshoyu-ramen-1.jpg&ehk=Z2uQARLaFtuWEd%2fMZlSstnbVNb9PDdt8ny6rzidVFQc%3d&risl=&pid=ImgRaw&r=0",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+         
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Udon",
+        "recipe_img":"https://th.bing.com/th/id/R.fd9af99fc1dab1615e58676dd1b6a8ae?rik=%2bZGKEdTdYUfbEQ&riu=http%3a%2f%2fmegiswell.com%2fwp-content%2fuploads%2f2016%2f03%2fudon_1.jpg&ehk=YPUI0cfKXmcNi2DTY0bXGxKXX%2f0I1SRLo8kYFpkmVfo%3d&risl=&pid=ImgRaw&r=0",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Charlie is a vegetarian chef who specializes in creating plant-based dishes that are both healthy and delicious. She loves experimenting with different vegetables and spices to create unique flavor profiles."
+  },
+  {
+    "id": 4,
+    "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "David Lee",
+    "experience_years": 12,
+    "total_recipe": 60,
+    "likes": 12000,
+    "recipes": [
+      {
+        "recipe_name": "Curry",
+        "recipe_img":"https://th.bing.com/th/id/OIP.iQHO2mmZYMkYIgv1iDyeZQHaE6?pid=ImgDet&rs=1",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Naan",
+        "recipe_img":"https://th.bing.com/th/id/R.554aafe03eb867330045847e97844c20?rik=7VSzSeKGWW8DQQ&pid=ImgRaw&r=0",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Biriyani",
+        "recipe_img":"https://th.bing.com/th/id/OIP.pA3QV9le3tWkxzb9gqli0gHaFj?pid=ImgDet&rs=1",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "David is a celebrity chef who has hosted several cooking shows on television. He is known for his innovative and experimental approach to cooking, and is constantly pushing the boundaries of traditional cuisine."
+  },
+  {
+    "id": 5,
+    "picture": "https://images.unsplash.com/photo-1595475038784-bbe439ff41e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Emily Davis",
+    "experience_years": 8,
+    "total_recipe": 35,
+    "likes": 7000,
+    "recipes": [
+      {
+        "recipe_name": " Tom Yum",
+        "recipe_img":"https://www.tuktukdubai.com/wp-content/uploads/2019/02/Tom-Yum-7S2A9096-1.jpg",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+        
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Green Curry",
+        "recipe_img":"https://th.bing.com/th/id/R.271d90894c8e2a9a2d5ac3b19c036ecb?rik=6T5gVW1ZjQa4aw&pid=ImgRaw&r=0",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Massaman Curry",
+        "recipe_img":"https://th.bing.com/th/id/OIP.5XGOQaJx69_TqtTgmQ6AWgHaHa?pid=ImgDet&rs=1",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Emily is a celebrity chef who has hosted several cooking shows on television. He is known for his innovative and experimental approach to cooking, and is constantly pushing the boundaries of traditional cuisine."
+  },
+  {
+    "id": 6,
+    "picture": "https://images.unsplash.com/photo-1543716627-839b54c40519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "name": "Frank Jackson",
+    "experience_years": 3,
+    "total_recipe": 20,
+    "likes": 3000,
+    "recipes": [
+      {
+        "recipe_name": "Croissants",
+        "recipe_img":"https://th.bing.com/th/id/OIP.h9IvHQeEAq41nED0v8AlqAHaHa?pid=ImgDet&rs=1",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+        
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Baguettes",
+        "recipe_img":"https://th.bing.com/th/id/OIP.GE3ckl1sQ6d9IZyZuIJnwgHaFj?pid=ImgDet&rs=1",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt",
+          "1/4 teaspoon black pepper"
+          
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      },
+      {
+        "recipe_name": "Quiche Lorraine",
+        "recipe_img":"https://th.bing.com/th/id/OIP.-dt5uFo7r6Q0Is0YLJAs7gHaE9?pid=ImgDet&rs=1",
+        "ingredients": [
+          "1 pound ground beef",
+          "1 onion, diced",
+          "2 cloves garlic, minced",
+          "1 can (28 oz) crushed tomatoes",
+          "1/2 teaspoon salt"
+        ],
+        "cooking_method": "1. In a large skillet, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks. Remove the beef from the skillet and set aside.\n2. In the same skillet, add the onion and garlic and cook until the onion is translucent and the garlic is fragrant, about 3-4 minutes.\n3. Add the crushed tomatoes, salt, black pepper, oregano, basil, and red pepper flakes to the skillet and stir to combine. Enjoy!",
+        "rating": 4.5
+      }
+    ],
+    "bio": "Frank is a celebrity chef who has hosted several cooking shows on television. He is known for his innovative and experimental approach to cooking, and is constantly pushing the boundaries of traditional cuisine."
+  }
+]
